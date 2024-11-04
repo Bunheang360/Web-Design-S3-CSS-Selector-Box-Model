@@ -1,0 +1,21 @@
+/* TODO */
+* {
+    text-transform: uppercase;
+    color: white;
+}
+button {
+    cursor: pointer;
+    font-weight: 500px;
+    padding: 10px;
+    border: 5px solid royalblue;
+    border-radius: 10px;
+    background-color: pink;
+}
+button:hover {
+    cursor: pointer;
+    font-weight: 50;
+    padding: 10px;
+    border: 5px solid pink;
+    border-radius: 10px;
+    background-color: grey;
+}
